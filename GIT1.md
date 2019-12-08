@@ -17,6 +17,7 @@
 * 새 버전 생성
   * vim 파일명 을 통해 파일 수정
   * 수정 후 git add를 통한 버전관리 등록 필요! (commit 전에 add를 꼭 해야함)
+  * git add를 먼저 하는 이유는 commit 대기상태로 만들기 위함
   * git commit을 통해 버전명 설정
   * git status를 통해 버전명 설정여부 확인 가능
   * git log(파일 수정 역사)를 통해 버전 목록 확인 가능
