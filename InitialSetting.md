@@ -97,6 +97,24 @@
          server;
          ```
 
-   9. sfsdf
+   9. Java 세팅
+
+      1. JDK 다운로드(Java SE Development Kit) 및 설치(Default 값)
+      2. 환경변수 설정
+         1. Jdk 설치폴더의 bin 폴더까지 경로 복사 (C:\Program Files\Java\jdk1.8.0_171\bin)
+         2. 시스템->고급시스템설정->환경변수 클릭
+         3. 시스템변수의 Path 부분을 클릭
+         4. 새로만들기를 눌러 다음 경로를 붙여넣기
+         5. 시스템 변수의 새로만들기 클릭
+         6. 변수이름은 JAVA_HOME
+         7. 변수 값은 복사한 경로의 **bin**폴더만 제거(C:\Program Files\Java\jdk1.8.0_171)
+      3. 버전 확인
+         1. cmd 창에서 다음 명령어 입력
+            * java -version
+      4. 이클립스 설치
+         1. 일단 자바 사용이면 Java Developers 설치
+         2. JPA와 같은 서버 이용 목적이면 Java EE(Enterprise) 설치
 
    10. sdffsd
+
+   11. ㄴㅇㄻ
