@@ -115,6 +115,19 @@
          1. 일단 자바 사용이면 Java Developers 설치
          2. JPA와 같은 서버 이용 목적이면 Java EE(Enterprise) 설치
 
-   10. sdffsd
+   10. 리액트 시작
 
-   11. ㄴㅇㄻ
+       1. npx -v 로 확인
+       2. 다음 명령어 입력
+          * npx create-react-app [app 이름]
+       3. npm start 로 시작
+
+   11. 리액트 타입스크립트 시작
+
+       1. 타입 스크립트 글로벌 설치
+          * npm install -g typescript (또는 yarn global add typescript)
+       2. 다음 명령어 입력
+          * npx create-react-app [app 이름] --template typescript
+       3. npm start로 시작
+
+   12. aaa
