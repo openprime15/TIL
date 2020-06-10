@@ -73,5 +73,16 @@
 
   * v-bind:class="{조건부로 적용할 클래스 이름: boolean값}"
 
+* 'v-text': 데이터 렌더(innerText) == {{ }}
+
+* 'v-html': 데이터 렌더(innerHTML)
+
+* 축약형
+
+  * V-bind => : 만으로 가능
+  * v-on => @ 만으로 가능
+
+* 
+
   
 
