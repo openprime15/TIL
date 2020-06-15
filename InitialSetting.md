@@ -130,4 +130,59 @@
           * npx create-react-app [app 이름] --template typescript
        3. npm start로 시작
 
-   12. aaa
+   12. Vue-Cli 설치
+
+       1. 구글에서 Vue cli 검색후 사이트에서 get start를 통해 확인
+
+       2. Vue-cli 글로벌 설치
+
+          * ```bash
+            npm install -g @vue/cli
+            # OR
+            yarn global add @vue/cli
+            ```
+
+       3. Vue 버전 확인
+
+          * ```bash
+            vue --version
+            ```
+
+       4. 프로젝트 생성
+
+          * ```bash
+            vue create [프로젝트명]
+            ```
+
+          * 실행중 npm인지 yarn인지 선택해야 함
+
+       5. VS code extension Vetur 설치
+
+       6. 실행:
+
+          * npm run server
+
+       7. vue 파일 생성 단축키
+
+          * <vue> 탭
+
+       8. sf
+
+   13. Python 설치
+
+       1. https://www.python.org/ 로들어가 windows용 다운로드를 받는다
+       2. **설치창에서 Add Python 3.8 to PATH** 를 체크할것!
+       3. python --version으로 버전 확인
+       4. 파이썬 노트북(jupyter 사용)
+          * pip list : pip 확인
+          * 버전업이 필요할 경우 다음 명령어 입력
+            * python -m pip install --upgrade pip
+          * pip install jupyter
+          * 노트북 실행
+            * jupyter notebook
+       * 단축키
+            * 코드 실행: Ctrl + Enter
+            * 아래 코드 추가: ESC + b
+   
+   14. ㄴㅇㄹㅇㄴ
+
