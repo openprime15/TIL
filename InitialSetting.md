@@ -162,7 +162,7 @@
            
       * 실행중 npm인지 yarn인지 선택해야 함
 
-   5. VS code extension Vetur 설치
+   5. VS code extension **Vetur** 설치
 
    6. 실행:
 
