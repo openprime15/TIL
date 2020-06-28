@@ -22,3 +22,20 @@
    6. finalizeLogin 에서 토큰 추출 + state 갱신
    7. / 으로 리다이렉트
 
+6. 2번째 세팅
+
+   1. npm i vue-cookies
+
+      **main.js**
+
+      ```javascript
+      import VueCookies from 'vue-cookies'
+      
+      Vue.use(VueCookies)
+      ```
+
+      쿠키를 사용하는 파일에도 import시켜줘야함
+
+      
+   
+
