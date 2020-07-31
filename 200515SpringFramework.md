@@ -26,7 +26,7 @@
        																				JNDI(Java Naming Directory Interface) 를 사용
      * DI  (Dependency Injection) - 의존하는 객체를 주입(injection)을 받겠다.
 
-5. DI
+5. DI(Dependency Injection)
 
    * Setter Injection
 
